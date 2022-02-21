@@ -7,7 +7,7 @@ with open("README.md", "r") as file:
 
 setup(
     name="XProperties",
-    version="2.0.9",
+    version="2.0.10",
     description="Cross-Language .properties file parser",
     long_description=long_description,
     long_description_content_type="text/markdown",
