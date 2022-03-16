@@ -1,4 +1,4 @@
-from .xproperties import Properties
+from .properties import Properties
 
 
-__version__ = "2.0.10"
+__version__ = "2.0.14"

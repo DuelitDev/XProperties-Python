@@ -7,18 +7,18 @@ with open("README.md", "r") as file:
 
 setup(
     name="XProperties",
-    version="2.0.10",
+    version="2.0.14",
     description="Cross-Language .properties file parser",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    author="Duelit",
+    author="DuelitDev",
     author_email="jyoon07dev@gmail.com",
-    maintainer="Duelit",
+    maintainer="DuelitDev",
     maintainer_email="jyoon07dev@gmail.com",
-    url="https://github.com/Duelit/XProperties",
+    url="https://github.com/DuelitDev/XProperties-Python",
     packages=find_packages(),
     python_requires=">=3.7",
-    keywords=["xproperties"],
+    keywords=["XProperties", "Properties"],
     classifiers=[
         "License :: OSI Approved :: "
         "GNU Lesser General Public License v2 or later (LGPLv2+)",
